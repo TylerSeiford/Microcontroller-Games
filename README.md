@@ -6,3 +6,6 @@ This project was made for a PIC24FJ64GA002 microcontroller from MicroChip in the
 
 ## Assignment
 This project was done for EE2361 class my sophomore year.
+
+## Credit
+Credit goes to my group members for their portions of the code, which is everything that doesn't start with seifo002 in the filename.  The game files are a combination of all of our work, so I can't attribute them to any one person
